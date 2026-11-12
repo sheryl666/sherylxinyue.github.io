@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sheryl666.github.io/sherylxinyue.github.io/sitemap.xml
